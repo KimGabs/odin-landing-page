@@ -154,7 +154,6 @@ body{
     object-fit: cover;
     max-height: 233px;
     flex: 1;
-    object-position: 0px -125px;
 }
 
 .section.two{
