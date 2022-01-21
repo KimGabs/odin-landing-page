@@ -1,2 +1,2 @@
 # odin-project-landing-page
-Landing Page
+Applying lessons learned from scratch. 
